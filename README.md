@@ -1,2 +1,2 @@
 # galleryBox
-Une galerie d'images avec contenu d'image
+Une galerie d'images avec contenu de l'image
