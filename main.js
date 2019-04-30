@@ -42,8 +42,6 @@ function next() {
         else {
             $("#slide"+num[num_id_next]).show().css({top:top_slide()+"px"});
         }
-		j++;
-
     });
 }
 
@@ -59,8 +57,6 @@ function prev() {
         else {
             $("#slide"+num[num_id_prev]).show().css({top:top_slide()+"px"});
         }
-		j++;
-
     });
 }
 
